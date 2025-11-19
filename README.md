@@ -11,6 +11,17 @@
 
 ---
 
+## 🚀 Live Demo
+🔗 **View Project:** [📝 Interactive Task Manager (Week 3 Project)](https://saicharanjanagama.github.io/Intern-Week3/)
+
+📸 **Preview:**
+
+<p align="center">
+  <img src="Screenshot1.png" width="700" alt="Interactive Task Manager Preview"/>
+</p> 
+
+---
+
 ## 🎯 Features
 
 - ➕ Add New Tasks Easily
@@ -32,11 +43,6 @@
 *(Windows → Segoe UI, macOS → San Francisco, Android → Roboto)*
 - **Responsive Layout**
 
----
-
-## 📸 Preview
-
-![Portfolio Preview](Screenshot1.png)   
 ---
 
 ## 🚀 How to View
